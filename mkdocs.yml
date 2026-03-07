@@ -57,6 +57,7 @@ nav:
       - 数字逻辑与计算机组成: Course/DLCO.md
       - 人工智能: Course/Artificial_Intelligence.md
       - 分布式与并行计算: Course/ParallelDistributedComputing.md
+      - 计算机数学建模: Course/Computer_Math_Model.md
     - 大三下:
       - 数字逻辑与计算机组成实验: Course/DLCO_Lab.md 
       - 操作系统: Course/OS.md
@@ -71,6 +72,7 @@ nav:
       - 并发算法与理论: Course/Concurrency.md
       - 机器学习导论: Course/ML_Intro.md
       - 计算机程序的构造与解释: Course/SICP.md
+      - LLM智能应用开发: Course/LLM_Intelligent_SD.md
   - OJ:
     - test: test.md
 
