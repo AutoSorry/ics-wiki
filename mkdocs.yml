@@ -66,6 +66,7 @@ nav:
       - 组合数学: Course/Combinatorics.md
       - 信息论基础: Course/InformationTheory.md
       - 多媒体技术: Course/Multimedia.md
+      - 面向对象设计方法: Course/OOD.md
     - 大四上:
       - 高级算法: Course/Advanced_Algorithms.md
     - 跨选课程:
